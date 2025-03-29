@@ -45,3 +45,16 @@ This project applies Multi-Criteria Decision Making (MCDM) techniques to rank th
 | Multi-platform analysis| Entropy + WASPAS (λ=0.6)  |  
 | Streaming trend prediction | AHP + PROMETHEE II    |  
 | New artist discovery   | Entropy + TOPSIS          |  
+
+## ▶️ Usage  
+Run the Jupyter Notebook `Individual_Project_MCDM(Spotify_songs).ipynb` to:  
+- **Replicate the weight calculations**: Compare Entropy (objective) and AHP (subjective) weighting.  
+- **Generate rankings**: Apply all five MCDM methods (WSM, WPM, WASPAS, TOPSIS, PROMETHEE II).  
+- **Visualize comparative results**: Explore ranking differences through interactive charts and tables.  
+
+## 📜 Report  
+For detailed analysis, refer to the [**Project Report**](MCDM_Project_Report.pdf), which includes:  
+- Full methodological breakdown  
+- Weight sensitivity analysis  
+- Cross-method ranking comparisons  
+- Industry implementation guidelines  
